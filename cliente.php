@@ -13,12 +13,12 @@
 
 <body>
   <div class="container">
-  <h2>Painel do Colaborador</h2>
-  <p>Essa é a area do Colaborador depois que passou pelas validações no arquivo de login</p>
+  <h2>Painel do Cliente</h2>
+  <p>Essa é a area do Cliente depois que passou pelas validações no arquivo de login</p>
   <table class="table">
     <thead>
       <tr>
-        <th>Colaborador</th>        
+        <th>Usuário</th>        
       </tr>
     </thead>
     <tbody>
